@@ -18,7 +18,7 @@
 ## 安装
 
 ```
-composer require zmoyi/jstan
+composer require david8998/jstan
 ```
 
 ### laravel 使用移步至 [laravel-jsTan](https://github.com/zmoyi/laravel-jstan)
